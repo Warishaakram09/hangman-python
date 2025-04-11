@@ -51,13 +51,13 @@ Edit
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hangman-python-beginner.git
+git clone https://github.com/Warishaakram09/hangman-python
 
 # Open the file
-cd hangman-python-beginner
+cd hangman-python
 
 # Run the script
 python hangman.py
 
-🧑‍💻 Author
+Author
 Developed with ❤️ by Wrisha Akram
